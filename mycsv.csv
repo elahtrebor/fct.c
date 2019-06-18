@@ -1,0 +1,9 @@
+ID,host,ip,city,state,admincontact,vendor,OS,swversion
+1,router1,192.168.1.1,stllouis,missouri,root@localhost,cisco,IOS,12.4
+2,server2,192.168.1.2,stllouis,missouri,root@localhost,HP,REDHAT,6.8
+3,server3,192.168.1.3,stllouis,missouri,root@localhost,DELL,REDHAT,7
+4,server4,192.168.1.4,stllouis,missouri,root@localhost,HP,CENTOS,6
+5,server5,192.168.1.5,stllouis,missouri,root@localhost,HP,REDHAT,6.8
+6,server6,192.168.1.6,stllouis,missouri,root@localhost,HP,REDHAT,6.8
+7,router2,192.168.1.7,stllouis,missouri,root@localhost,Juniper,JUNOS,17.4R2
+8,server8,192.168.1.8,stllouis,missouri,root@localhost,HP,REDHAT,6.8
